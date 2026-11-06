@@ -16,7 +16,7 @@ Si tienes cualquier duda, incidencia técnica, sugerencia de mejora o deseas sol
 
 Puedes contactar directamente con el desarrollador a través de las siguientes vías:
 
-* **Correo electrónico:** [jrdelgado.developer@gmail.com](mailto:jrdelgado.developer@gmail.com) *(o la dirección asociada a tu cuenta de Apple Developer)*
+* **Correo electrónico:** [interamaster@gmail.com](mailto:interamaster@gmail.com)  
 * **Informar de un fallo / Sugerir función:** [Abrir una incidencia en GitHub Issues](https://github.com/interamaster/ReceiptScanner/issues)
 * **Tiempo estimado de respuesta:** Menos de 24-48 horas laborables.
 
@@ -59,22 +59,6 @@ Dentro de la app:
 
 ---
 
-## 🔒 Política de Privacidad
-
-**Última actualización:** Noviembre de 2026
-
-En **ReceiptScanner**, respetamos profundamente tu privacidad:
-
-1. **Recopilación de información personal:**  
-   La aplicación no recopila, almacena, comparte ni transmite ninguna información identificable del usuario (nombre, teléfono, ubicación ni identificadores de publicidad).
-2. **Uso de la cámara:**  
-   El permiso de acceso a la cámara se utiliza exclusivamente para capturar la imagen de los recibos de compra y permitir el análisis de texto en vivo mediante las APIs nativas de Apple. Ninguna imagen es enviada a servidores de terceros.
-3. **Procesamiento de pagos:**  
-   Las transacciones de compra integrada se realizan a través de la pasarela cifrada de **Apple App Store (StoreKit)**. El desarrollador nunca tiene acceso a los datos de tu tarjeta de crédito o información bancaria.
-4. **Analíticas y rastreadores de terceros:**  
-   ReceiptScanner no incorpora SDKs de analítica de terceros ni herramientas de rastreo entre aplicaciones (*No Tracking*).
-
----
 
 ## 📄 Términos de Uso
 
